@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "title": "Test Model",
+    "owner": "Peter",
+    "description": "A three tier web application"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "TheApp",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "Peter"
+  }
+}
